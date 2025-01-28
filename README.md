@@ -24,7 +24,7 @@ SYSTEM REQS: 2 CORES, 4 GIG RAM
 7. npm install systeminformation
 
 ### (GO PACKAGES)
-go get github.com/gorilla/mux
+1. go get github.com/gorilla/mux
 
 
 your done with packages now run the .js file (read additional notes below)
