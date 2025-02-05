@@ -10,6 +10,8 @@ SYSTEM REQS: 2 CORES, 4 GIG RAM
 4. apt install net-tools
 5. apt install vnstat
 6. apt install golang-go
+7. go mod tidy
+8. go init server
 
 ### (NPM / NODE PACKAGES) 
 3. npm install express 
