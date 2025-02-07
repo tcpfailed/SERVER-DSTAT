@@ -41,9 +41,15 @@ if your server ip is 127.0.0.1 you would visit http://127.0.0.1:3000/APIENDPOINT
 
 ### API ENDPOINTS: 
 
-http://localhost:3000/check-iptables 
+http://localhost:3000/check-iptables
+
 http://localhost:3000/get-traffic-data 
+
 http://localhost:3000/get-maintraffic-data 
+
 http://localhost:3000/get-connection-count 
+
 http://localhost:3000/mitigation-status 
+
 http://localhost:3000/detailed 
+
