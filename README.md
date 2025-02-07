@@ -13,7 +13,8 @@ SYSTEM REQS: 2 CORES, 4 GIG RAM
 7. apt install git
 8. git clone https://github.com/TCPTHEGOAT/SERVER-DSTAT
 9. cd SERVER-DSTAT
-11. go init server
+10. go mod init server
+11. go mod init github.com/gorilla/mux
 12. go mod tidy
 
 ### (NPM / NODE PACKAGES) 
