@@ -47,15 +47,3 @@ http://localhost:3000/get-maintraffic-data
 http://localhost:3000/get-connection-count 
 http://localhost:3000/mitigation-status 
 http://localhost:3000/detailed 
-
-### API ENDPOINT NOTES:
-
-> Use /get-traffic-data or /get-maintraffic-data one may be more accurate then the other. 
-
-> This Depends on ur server if /get-traffic-data shows gbps use that to determine ddos traffic
- 
-> But if /get-maintraffic-data shows gbps use that to determine ddos traffic data 
-
-> So if one endpoint shows the mbps and not the gbps use the other traffic data endpoint 
-
-> To see the amount of gbps from an ddos attack
