@@ -46,6 +46,7 @@ http://localhost:3000/get-traffic-data (Shows server traffic data)
 http://localhost:3000/get-maintraffic-data (Shows main firewall allowed traffic)
 http://localhost:3000/get-connection-count (Shows amount of live connections on your server)
 http://localhost:3000/mitigation-status (Shows if server is in mitigation mode or not)
+http://localhost:3000/detailed (shows detailed attack data)
 
 ### API ENDPOINT NOTES:
 
