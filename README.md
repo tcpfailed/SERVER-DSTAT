@@ -51,5 +51,3 @@ http://localhost:3000/get-connection-count
 
 http://localhost:3000/mitigation-status 
 
-http://localhost:3000/detailed 
-
