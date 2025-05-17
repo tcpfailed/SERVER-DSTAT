@@ -11,7 +11,7 @@ SYSTEM REQS: 2 CORES, 4 GIG RAM
 5. apt install vnstat
 6. apt install golang-go
 7. apt install git
-8. git clone https://github.com/TCPTHEGOAT/SERVER-DSTAT
+8. git clone https://github.com/tcpfailed/SERVER-DSTAT
 9. cd SERVER-DSTAT
 10. go mod init server
 11. go mod init github.com/gorilla/mux
